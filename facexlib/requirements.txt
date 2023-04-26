@@ -1,0 +1,10 @@
+filterpy
+numba
+numpy
+numpy
+opencv-python
+Pillow
+scipy
+torch>=1.13.1
+torchaudio>=0.13.1
+tqdm
