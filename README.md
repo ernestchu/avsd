@@ -19,6 +19,9 @@ See [viz_demo](./viz_demo) directory.
 
 ### Tracking
 
+You can download the track results [here](https://github.com/ernestchu/avsd/releases/download/v0.0.1/attributes.tar.gz) (1 csv per video),
+or you can try to run the script yourself
+
 Run the inference script by
 ```sh
 python ego4d_face_tracking.py --input_folder /scratch2/users/dataset/EGO4D/v1/clips/ --save_folder test
