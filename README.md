@@ -24,7 +24,7 @@ Run the inference script by
 python ego4d_face_tracking.py --input_folder /scratch2/users/dataset/EGO4D/v1/clips/ --save_folder test
 ```
 
-Optional: use HF Accelerate to do multi-GPU inference
+#### Optional: use HF Accelerate to do multi-GPU inference
 
 Setup [HF Accelerate](https://huggingface.co/docs/accelerate/index)
 to leverage multiple GPUs
